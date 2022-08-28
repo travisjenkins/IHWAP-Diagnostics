@@ -13,6 +13,6 @@ If you find any security vulnerability that has been inadvertently caused by me,
 
 Sincerely,
 
-Travis Jenkins
-Web/Mobile Application Developer
+Travis Jenkins.
+Web/Mobile Application Developer.
 Tjinks123@gmail.com
