@@ -1,8 +1,6 @@
-# IHWAP-Diagnostics
+# IHWAP-Diagnostics: Privacy policy
 
-IHWAP Diagnostics: Privacy policy
-
-Welcome to the IHWAP Diagnostics app!
+### Welcome to the IHWAP Diagnostics app!
 
 This app was developed by Travis Jenkins for the University of Illinois. The app is available on the Apple App Store and Google Play.
 
@@ -14,6 +12,6 @@ If you find any security vulnerability that has been inadvertently caused by me,
 
 Sincerely,
 
-Travis Jenkins
-Developer
+Travis Jenkins, 
+Developer, 
 Tjinks123@gmail.com
