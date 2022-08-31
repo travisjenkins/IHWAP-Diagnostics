@@ -2,7 +2,7 @@
 
 ### Welcome to the IHWAP Diagnostics app!
 
-This app was developed by Travis Jenkins for the University of Illinois at Urbana-Champaign. The app is available on the Apple App Store and Google Play.
+This app was developed by Travis Jenkins for the University of Illinois at Urbana-Champaign. The app is available on the Apple App and Google Play stores.
 
 I take privacy very seriously. I know how irritating it is when apps collect your data without your knowledge.
 
